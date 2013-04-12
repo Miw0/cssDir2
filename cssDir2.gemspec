@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
     # Release Specific Information
     s.version = "1.0.0"
-    s.date    = "2013-03-30"
+    s.date    = "2013-04-12"
 
     # Gem Details
     s.name        = "cssDir2"
@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
     s.files += Dir.glob("lib/**/*.*")
 
     # Gem Bookkeeping
-    s.rubygems_version = %q{1.3.6}
+    s.rubygems_version = %q{1.3.7}
     s.add_dependency("compass", [" >= 0.12.2"])
 end

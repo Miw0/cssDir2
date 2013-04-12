@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     # Release Specific Information
-    s.version = "1.0.0"
+    s.version = "1.0.1"
     s.date    = "2013-04-12"
 
     # Gem Details
@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
     s.summary     = %q{A Compass Extension to copy the generated css file to a different location.}
     s.description = %q{A Compass Extension to copy the generated css file to a different location.}
     s.email       = "work@michael-worm.de"
-    s.homepage    = "http://www.michael-worm.de/"
+    s.homepage    = "https://github.com/Miw0/cssDir2"
 
     # Gem Files
     s.files  = %w(README.md)

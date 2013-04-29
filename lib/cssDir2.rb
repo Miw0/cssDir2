@@ -4,7 +4,7 @@ require 'compass'
 
 class CssDir2
     def initialize(css_dir, css_dir2)
-        puts "cssDir2 is now enabled...".green
+        puts "cssDir2 is now running...".green
 
         Compass.configuration.on_stylesheet_saved do |file|
             if File.exists?(file)

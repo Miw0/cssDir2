@@ -1,6 +1,6 @@
 # Welcome to cssDir2
 
-cssDir2 is a simple ruby script for compass to copy the generated css file to a different location.
+cssDir2 is a simple ruby script for compass which copies the generated css file to a different location.
 
 # How to install?
 
